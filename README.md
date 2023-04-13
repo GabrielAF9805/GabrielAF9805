@@ -37,6 +37,7 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAF9805&layout=compat&langs_count=16&theme=dark"/>
 </div>
   <br>
+<div align="center" style="display: inline_block"><b>Technology Stack</b><br>
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/512/hadoop-distributed-file-system.png"/>
   <img align="center" height="40" width="40" src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg"/>
@@ -44,7 +45,6 @@
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
   <img align="center" height="40" width="40" src="https://img.icons8.com/dusk/344/scala.png"/>
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-    <b>Technology Stack</b>
 </div>
   
 <div>
