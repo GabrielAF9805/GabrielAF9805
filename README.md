@@ -46,9 +46,3 @@
   <img align="center" height="40" width="40" src="https://img.icons8.com/dusk/344/scala.png"/>
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 </div>
-  
-<div>
- 
-  ![Snake animation](https://github.com/GabrielAF9805/GabrielAF9805/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
