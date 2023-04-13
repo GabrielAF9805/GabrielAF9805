@@ -38,10 +38,9 @@
 </div>
   <br>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" height="40" width="40" src="https://icons8.com/icon/69132/hadoop-distributed-file-system"/>
-  <img align="center" height="40" width="40" src="https://akrity.com/wp-content/uploads/2021/07/apachesparklogo-980x511.png"/>
-  <img align="center" height="40" width="40" src="https://tse2.mm.bing.net/th/id/OIP.mNQ0Wca1_knwwzHK719KxQAAAA?pid=ImgDet&w=300&h=200&rs=1"/>
-  <img align="center" height="40" width="40" src="https://icons8.com/icon/UFF3hmipmJ2V/sql">
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/512/hadoop-distributed-file-system.png"/>
+  <img align="center" height="40" width="40" src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg"/>
+  <img align="center" height="40" width="40" src="https://img.icons8.com/external-flaticons-flat-flat-icons/512/external-sql-computer-programming-flaticons-flat-flat-icons.png">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
   <img align="center" height="40" width="40" src="https://img.icons8.com/dusk/344/scala.png"/>
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
@@ -50,6 +49,6 @@
   
 <div>
  
-  ![Snake animation](https://github.com/Gabriel0598/Gabriel0598/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GabrielAF9805/Gabriel0598/blob/output/github-contribution-grid-snake.svg)
  
 </div>
