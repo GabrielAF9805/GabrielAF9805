@@ -32,19 +32,20 @@
 <br>
   
 <div>
-  <a href="https://github.com/Gabriel0598">
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=Gabriel0598&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0598&layout=compat&langs_count=16&theme=dark"/>
+  <a href="https://github.com/GabrielAF9805">
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=GabrielAF9805&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAF9805&layout=compat&langs_count=16&theme=dark"/>
 </div>
   <br>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+  <img align="center" height="40" width="40" src="https://icons8.com/icon/69132/hadoop-distributed-file-system"/>
+  <img align="center" height="40" width="40" src="https://akrity.com/wp-content/uploads/2021/07/apachesparklogo-980x511.png"/>
+  <img align="center" height="40" width="40" src="https://tse2.mm.bing.net/th/id/OIP.mNQ0Wca1_knwwzHK719KxQAAAA?pid=ImgDet&w=300&h=200&rs=1"/>
+  <img align="center" height="40" width="40" src="https://icons8.com/icon/UFF3hmipmJ2V/sql">
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
   <img align="center" height="40" width="40" src="https://img.icons8.com/dusk/344/scala.png"/>
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-    <b>Most used Languages</b>
+    <b>Technology Stack</b>
 </div>
   
 <div>
